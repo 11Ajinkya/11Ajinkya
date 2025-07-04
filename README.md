@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00F7FF&center=true&vCenter=true&width=435&lines=Ajinkya Tarde" alt="Typing SVG" /></a>
+  <b><a href="https://github.com/11Ajinkya" style="font-size: 22px;">Ajinkya Tarade</a></b>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Experienced+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation+Specialist;AWS+%7C+Azure+%7C+GCP+Expert;Passionate+about+Kubernetes+and+Terraform;Always+learning+and+optimizing" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Experienced+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation+%7C+Monitor;AWS+%7C+Azure+%7C+GCP+Expert;Passionate+about+Kubernetes+and+Terraform;Always+learning+and+optimizing" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -39,8 +39,8 @@ I'm **Ajinkya Tarade**, a DevOps Engineer with a passion for automating infrastr
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height="42px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="42" alt="Azure"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="42" alt="GCP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="42" alt="Azure"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="42" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="42" alt="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="42" alt="Terraform"/>
@@ -49,6 +49,9 @@ I'm **Ajinkya Tarade**, a DevOps Engineer with a passion for automating infrastr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="42" alt="Nginx"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="42" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="42" alt="Ansible"/>
+  <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
+  <a href="https://www.postgresql.org" target="_blank"><img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 </p>
 
 ---
