@@ -26,7 +26,7 @@ I'm **Ajinkya Tarade**, a DevOps Engineer with a passion for automating infrastr
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/11Ajinkya/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="www.linkedin.com/in/ajinkya-tarade-671506180/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;
   <a href="mailto:ajinkya.dtarade@gmail.com"><img width="32px" alt="Email" title="Email" src="https://img.icons8.com/ios-filled/50/000000/email.png"/></a>
   &#8287;&#8287;
