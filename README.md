@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/11Ajinkya">
-    <img src="https://github.com/11Ajinkya/11Ajinkya/assets/your-image-placeholder" alt="Ajinkya Tarade" />
-  </a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00F7FF&center=true&vCenter=true&width=435&lines=Ajinkya Tarde" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -40,7 +38,7 @@ I'm **Ajinkya Tarade**, a DevOps Engineer with a passion for automating infrastr
 ### 🔧 Tools & Technologies
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="42" alt="AWS"/>
+  <a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height="42px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="42" alt="Azure"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="42" alt="GCP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="42" alt="Docker"/>
