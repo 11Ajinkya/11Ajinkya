@@ -14,15 +14,6 @@ I'm **Ajinkya Tarade**, a DevOps Engineer with a passion for automating infrastr
 
 ---
 
-### 🧠 Currently Focused On
-
-- 🚀 Deploying cloud-native applications with automated CI/CD pipelines
-- 🛠️ Managing infrastructure as code using Terraform and ARM templates
-- 🧪 Building monitoring & alerting dashboards using Grafana, Azure Monitor
-- 🔐 Enhancing cloud security and region-specific firewalls for EC2/VMs
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
